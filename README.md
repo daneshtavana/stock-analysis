@@ -1,5 +1,5 @@
 # stock-analysis
-# Chalenge
+### Challenge
 There are two macros containing refactored code located in Module 2
   a) RefactoredAllStocksAnalysis()
   b) RefactoredSpecifiedStocksAnalysis()
