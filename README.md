@@ -1,8 +1,8 @@
 # stock-analysis
 ### Challenge
-####There are two macros containing refactored code located in Module 2
-  #####a) RefactoredAllStocksAnalysis()
-  #####b) RefactoredSpecifiedStocksAnalysis()
+There are two macros containing refactored code located in Module 2
+  a) RefactoredAllStocksAnalysis()
+  b) RefactoredSpecifiedStocksAnalysis()
   
 Both macros Set & Match tickerIndex, Apply tickerIndex to Arrays, and Loop through the Arrays 
 
